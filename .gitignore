@@ -1,0 +1,9 @@
+*.pdf
+*.png
+*.jpg
+*.asv
+*.pyc
+__pycache__
+*.bak
+*-checkpoint.ipynb
+*.ini
