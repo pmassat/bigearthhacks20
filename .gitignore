@@ -7,3 +7,4 @@ __pycache__
 *.bak
 *-checkpoint.ipynb
 *.ini
+*.html
